@@ -171,7 +171,7 @@ CSS = f"""
       padding: 18px 26px; margin: -8px 0 22px 0; border-radius: 4px;
   }}
   .amex-band h1 {{
-      color: {GREY_DK}; font-size: 24px; font-weight: 900;
+      color: {WHITE}; font-size: 24px; font-weight: 900;
       margin: 0; letter-spacing: -0.3px;
   }}
   .amex-band p {{ color: {TINT}; font-size: 13px; margin: 6px 0 0 0; }}
@@ -216,7 +216,7 @@ CSS = f"""
   .amex-panel {{
       background: {PANEL}; border: 1px solid {TINT};
       border-radius: 4px; padding: 16px 20px; margin: 12px 0;
-      font-size: 14px; line-height: 1.6; color: {WHITE};
+      font-size: 14px; line-height: 1.6; color: {GREY_DK};
   }}
   .amex-panel .src {{
       color: {GREY}; font-size: 11px; text-transform: uppercase;
